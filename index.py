@@ -7,4 +7,4 @@ elif user_mood == "nervous":
 elif user_mood == "sad":
     print("Cheer up, mate!")
 else:
-    print("Life is too short, enjoy it! :)")
+    print("Life is too short, enjoy it!)")
